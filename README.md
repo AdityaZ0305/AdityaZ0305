@@ -11,3 +11,7 @@
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wma94prj49s1hy8p4026i8fmc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=wma94prj49s1hy8p4026i8fmc&redirect=true)
+
+
+
+https://media.discordapp.net/attachments/1000060664016031834/1278257801604497528/GWDPDlpWkAAbMFo.png?ex=66d41a58&is=66d2c8d8&hm=f37126a450ff4ee640e2ec699abe40a1e12bd795d434a328e81be7e2d968b226&=&format=webp&quality=lossless&width=981&height=700
