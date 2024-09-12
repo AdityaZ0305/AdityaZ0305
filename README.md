@@ -10,8 +10,7 @@
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wma94prj49s1hy8p4026i8fmc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=wma94prj49s1hy8p4026i8fmc&redirect=true) ![Minjii](https://media.discordapp.net/attachments/1000060664016031834/1278257801604497528/GWDPDlpWkAAbMFo.png?ex=66d41a58&is=66d2c8d8&hm=f37126a450ff4ee640e2ec699abe40a1e12bd795d434a328e81be7e2d968b226&=&format=webp&quality=lossless&width=700&height=700) ![minji](https://media.discordapp.net/attachments/1000060664016031834/1278297878531538965/20240828_181742.jpg?ex=66d43fab&is=66d2ee2b&hm=4fd29ff9dc9923eacfc2289d7604c974ae6b58ae010387b4ed42c164fe64b0e4&=&format=webp&width=525&height=700)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wma94prj49s1hy8p4026i8fmc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=wma94prj49s1hy8p4026i8fmc&redirect=true)
 
 
 
